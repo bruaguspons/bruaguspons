@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m Bruno
-- 🔭 I’m a full-stack Developer who likes to use Django and React for building web applications.
+- 🔭 I’m a full-stack Developer who likes to use Django/Express and React for building web applications.
 
 - 🌱 I like to learn on my own and solve challenging problems.
 
