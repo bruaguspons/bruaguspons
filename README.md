@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">A passionate web developer from Uruguay</h3>
+<h3 align="center">A web developer from Uruguay</h3>
 
 - 🔭 I’m a full-stack Developer who likes to use Django/Express and React for building web applications.
 
