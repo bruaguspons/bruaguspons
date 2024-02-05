@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">A web developer from Uruguay</h3>
 
-- 🔭 I’m a full-stack Developer who likes to use Django/Express and React for building web applications.
+- 🔭 I’m a full-stack Developer who likes to build web applications using a wide range of technologies and frameworks.
 
 - 🌱 I like to learn on my own and solve challenging problems.
 
-- 👨‍💻 All of my projects are available at [bruaguspons.github.io/portfolio/](bruaguspons.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [bruaguspons.github.io/portfolio/](https://bruaguspons.github.io/portfolio/)
 
 - 📫 How to reach me **bruaguspons@gmail.com**
 
